@@ -1,0 +1,2 @@
+BOT_TOKEN = "8840128817:AAHXz5o4v_HrwW9UJfa3Ne7C1Vnd1cwowc8"
+ADMIN_ID = @Alimboyeevv
